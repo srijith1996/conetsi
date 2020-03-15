@@ -1,0 +1,8 @@
+[submodule "contiki-ng"]
+	path = contiki-ng
+	url = ./contiki-ng/
+	branch = normal-server
+[submodule "host-nms"]
+	path = host-nms
+	url = ./host-nms/
+	branch = master
