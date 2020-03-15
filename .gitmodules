@@ -1,8 +1,8 @@
 [submodule "contiki-ng"]
 	path = contiki-ng
-	url = ./contiki-ng/
+	url = https://github.com/srijith1996/contiki-conetsi.git
 	branch = normal-server
 [submodule "host-nms"]
 	path = host-nms
-	url = ./host-nms/
+	url = https://github.com/srijith1996/conetsi-host/conetsi-host.git
 	branch = master
