@@ -4,5 +4,4 @@
 	branch = normal-server
 [submodule "host-nms"]
 	path = host-nms
-	url = https://github.com/srijith1996/conetsi-host/conetsi-host.git
-	branch = master
+	url = https://github.com/srijith1996/conetsi-host.git
